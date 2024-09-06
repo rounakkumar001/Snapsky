@@ -2,7 +2,7 @@
 
 This is a MERN (MongoDB, Express, React, Node.js) stack project. You can visit the live version of the app using the link below:
 
-### [Live Site URL]([https://your-deployed-site-url.com](https://snapsky-client.onrender.com))
+### [Live Site URL](https://snapsky-client.onrender.com)
 
 ## Project Features
 - Full-stack application with CRUD operations
